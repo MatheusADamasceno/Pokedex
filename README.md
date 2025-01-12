@@ -1,13 +1,9 @@
 ## Bem vindo<p>
-A ElevateKanban é um projeto pessoal que desenvolvi para aprimorar minhas habilidades como desenvolvedor. Trata-se de uma ferramenta de gerenciamento de tarefas baseada na metodologia Kanban, que permite aos usuários organizar seus fluxos de trabalho de maneira prática e intuitiva.
-
-A aplicação utiliza login e senha para garantir a segurança e a personalização da experiência de cada usuário. Os dados são salvos de forma segura no Firebase, o que garante acessibilidade e confiabilidade.
-
-Além de ser uma ferramenta útil para o dia a dia, ela também pode ser utilizada para planejar e organizar sprints semanais, facilitando a gestão de projetos de forma ágil e dinâmica. Essa flexibilidade torna a Elevate uma ótima opção tanto para desenvolvedores quanto para equipes que buscam aumentar a produtividade e o controle das tarefas.
+Desenvolvi uma Pokédex utilizando a API da PokéAPI, projetada para exibir uma ampla variedade de Pokémon. A interface permite que os usuários explorem cada Pokémon individualmente, com uma página dedicada que detalha características importantes, como poderes, espécie, tipos, habilidades, estatísticas base, entre outros atributos únicos. Além disso, a aplicação possui um botão de 'Carregar Mais', facilitando a navegação e permitindo expandir a lista de Pokémon conforme o usuário desejar. O design é responsivo e foi pensado para proporcionar uma experiência intuitiva e agradável. Confira o projeto no meu GitHub!.
 
 <div align="center">
 
-![Captura de tela - Elevate](https://github.com/MatheusADamasceno/Kanban/blob/master/elevete.png?raw=true)
+![Captura de tela - Elevate](https://github.com/MatheusADamasceno/Pokedex/blob/main/img.png)
 </div>
 
 <div alinhar="centro">
@@ -20,7 +16,7 @@ Além de ser uma ferramenta útil para o dia a dia, ela também pode ser utiliza
 ## Visualizar o Projeto
 Você pode visualizar o projeto clicando no link abaixo:
 
-[Elevate]( https://kanbanelevate.netlify.app/home/index.html )
+[Pokedex](https://pokedex-pokemon25.netlify.app/)
 
 
 ---
@@ -30,7 +26,8 @@ Você pode visualizar o projeto clicando no link abaixo:
 ![HTML]( https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
 ![CSS]( https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)  
 ![JavaScript]( https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-![firebase](https://img.shields.io/badge/Firebase-F29D0C?style=for-the-badge&logo=firebase&logoColor=white)
+![Pokeapi](![PokeAPI](https://img.shields.io/badge/PokeAPI-F29D0C?style=for-the-badge&logo=pokeapi&logoColor=white)
+)
 </div>
 <div alinhar="direita">
 
