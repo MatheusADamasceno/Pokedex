@@ -1,5 +1,5 @@
 ## Bem vindo<p>
-Desenvolvi uma Pokédex utilizando a API da PokéAPI, projetada para exibir uma ampla variedade de Pokémon. A interface permite que os usuários explorem cada Pokémon individualmente, com uma página dedicada que detalha características importantes, como poderes, espécie, tipos, habilidades, estatísticas base, entre outros atributos únicos. Além disso, a aplicação possui um botão de 'Carregar Mais', facilitando a navegação e permitindo expandir a lista de Pokémon conforme o usuário desejar. O design é responsivo e foi pensado para proporcionar uma experiência intuitiva e agradável. Confira o projeto no meu GitHub!.
+Desenvolvi uma Pokédex utilizando a API da PokéAPI, projetada para exibir uma ampla variedade de Pokémon. A interface permite que os usuários explorem cada Pokémon individualmente, com uma página dedicada que detalha características importantes, como poderes, espécie, tipos, habilidades, estatísticas base, entre outros atributos únicos. Além disso, a aplicação possui um botão de 'Carregar Mais', facilitando a navegação e permitindo expandir a lista de Pokémon conforme o usuário desejar. O design é responsivo e foi pensado para proporcionar uma experiência intuitiva e agradável. 
 
 <div align="center">
 
